@@ -1,16 +1,19 @@
-## Hi there 👋
+# Joseph Torres 🔐
 
-<!--
-**torres-joseph/torres-joseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cybersecurity Analyst** | SecOps | Vulnerability Management
 
-Here are some ideas to get you started:
+Security practitioner focused on troubleshooting, documentation, and core systems fundamentals. This GitHub showcases hands-on technical write-ups and incident-style investigations designed to mirror real-world workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛡️ Projects
+- **[Home Network Security Assessment](https://github.com/torres-joseph/home-net-security-assessment)** - Residential network assessment and hardening with documented findings and controls.
+- 002
+- 003
+
+---
+
+## 🌐 Socials
+
+- **[LinkedIn](https://www.linkedin.com/in/torres-joseph)**
+- **[X](https://x.com/j______t_)**
