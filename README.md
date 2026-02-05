@@ -26,7 +26,9 @@ Security practitioner focused on troubleshooting, documentation, and core system
 
 ## Skills
 
-**Languages**: Python, BASH, SQL, JavaScript/TypeScript **Security:** Vulnerability Assessment, Log Analysis, Incident Triage **Tools:** Git, Claude/AI tooling, Splunk, Microsoft Sentinel, Wireshark, Yara, Zeek, Autopsy
+**Languages**: Python, BASH, SQL, JavaScript/TypeScript 
+**Security:** Vulnerability Assessment, Log Analysis, Incident Triage 
+**Tools:** Git, Claude/AI tooling, Splunk, Microsoft Sentinel, Wireshark, Yara, Zeek, Autopsy
 
 ---
 
