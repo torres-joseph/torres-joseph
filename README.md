@@ -31,4 +31,5 @@ Security practitioner focused on troubleshooting, documentation, and core system
 ---
 
 #### Contact
-[![LinkedIn](https://img.shields.io/badge/Linkedin-Joseph%20Torres-blue?logo=linkedin)](https://www.linkedin.com/in/torres-joseph) [![Email](https://img.shields.io/badge/Email-josephtorres.mail@proton.me-red?logo=proton)](https://www.linkedin.com/in/torres-joseph) [![X](https://img.shields.io/badge/j______t_-grey?logo=x)](https://x.com/j______t_)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-Joseph%20Torres-blue?logo=linkedin)](https://www.linkedin.com/in/torres-joseph) [![Email](https://img.shields.io/badge/Email-josephtorres.mail@proton.me-red?logo=proton)](mailto:josephtorres.mail@proton.me?subject=Work%20Inquiry
+) [![X](https://img.shields.io/badge/j______t_-grey?logo=x)](https://x.com/j______t_)
