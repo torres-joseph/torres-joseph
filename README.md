@@ -6,9 +6,7 @@ Security practitioner focused on troubleshooting, documentation, and core system
 
 ---
 
-## Featured Projects
-
-### Cybersecurity & Analysis
+## Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
