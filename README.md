@@ -20,7 +20,7 @@ Security practitioner focused on troubleshooting, documentation, and core system
 - **Governance & Frameworks:** NIST
 - **Security Skills:** Threat Detection, Incident Response, Risk Assessment, Vulnerability Management
 - **DevOps & Automation:** PowerShell, Bash, Python
-- **Network & Infra Security:** IDS/IPS, EDR/XDR, VPN, Firewalls, Conditional Access, Azure Policies
+- **Network & Infra Security:** IDS/IPS, EDR/XDR, VPN, Firewalls, Conditional Access
 
 #### Certifications
 [![CompTIA](https://img.shields.io/badge/CompTIA-Security+%20(Expected%202026)-red?logo=comptia)](https://www.comptia.org/)
