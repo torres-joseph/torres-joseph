@@ -1,8 +1,8 @@
 # Joseph Torres 🔐
 
-**Cybersecurity Analyst** | SecOps | Vulnerability Management
+**IT Support | SecOps | Windows & Networking**
 
-Security practitioner focused on troubleshooting, documentation, and core systems fundamentals. This GitHub showcases hands-on technical write-ups and incident-style investigations designed to mirror real-world workflows.
+I document hands-on IT and security-focused technical work designed to mirror real-world support and operations workflows. My focus is building strong troubleshooting fundamentals across Windows systems, networking, and defensive security practices.
 
 ---
 
