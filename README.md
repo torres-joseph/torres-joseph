@@ -16,11 +16,12 @@ I document hands-on IT and security-focused technical work designed to mirror re
 ---
 
 #### Key Tech Stack & Tools
-- **Cloud & Security Platforms:** Microsoft Defender, Sentinel, Splunk, AWS (learning)
-- **Governance & Frameworks:** NIST
-- **Security Skills:** Threat Detection, Incident Response, Risk Assessment, Vulnerability Management
-- **DevOps & Automation:** PowerShell, Bash, Python
-- **Network & Infra Security:** IDS/IPS, EDR/XDR, VPN, Firewalls, Conditional Access
+- **Windows Systems Administration Fundamentals**
+- **Network Segmentation & Firewall Hardening**
+- **Event Log Analysis**
+- **Vulnerability Review & Remediation**
+- **PowerShell & Bash Scripting (Basic Automation)**
+- **TCP/IP, DNS, DHCP**
 
 #### Certifications
 [![CompTIA](https://img.shields.io/badge/CompTIA-Security+%20(Expected%202026)-red?logo=comptia)](https://www.comptia.org/)
