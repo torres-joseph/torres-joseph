@@ -10,8 +10,9 @@ I document hands-on IT and security-focused technical work designed to mirror re
 | Project | Description | Tech |
 |--------|-------------|------|
 | [Home Network Security Assessment](https://github.com/torres-joseph/home-net-security-assessment) | Residential network assessment and hardening with documented findings and controls. | Nmap, Router Firewall, Network Segmentation |
-| 002 | 002 | 002 |
-| 003 | 003 | 003 |
+| [Windows Log Analysis Lab](https://github.com/torres-joseph/windows-log-analysis-lab) | Practice identifying suspicious activity using Windows Event Viewer | Event Viewer |
+| [IT Support Playbook](https://github.com/torres-joseph/it-support-playbook) | IT Support Troubleshooting Playbook | 003 |
+| [PowerShell Automation Basics](https://github.com/torres-joseph/powershell-automation-basics) | Develop small automation scripts to support troubleshooting workflows | PowerShell |
 
 ---
 
