@@ -9,10 +9,10 @@ I document hands-on IT and security-focused technical work designed to mirror re
 #### Featured Projects
 | Project | Description | Tech |
 |--------|-------------|------|
-| [Home Network Security Assessment](https://github.com/torres-joseph/home-net-security-assessment) | Residential network assessment and hardening with documented findings and controls. | Nmap, Internal risk review |
-| [Windows Log Analysis Lab](https://github.com/torres-joseph/windows-log-analysis-lab) | Practice identifying suspicious activity using Windows Event Viewer | Event Viewer |
-| [IT Support Playbook](https://github.com/torres-joseph/it-support-playbook) | IT Support Troubleshooting Playbook | 003 |
-| [PowerShell Automation Basics](https://github.com/torres-joseph/powershell-automation-basics) | Develop small automation scripts to support troubleshooting workflows | PowerShell |
+| [Home Network Security Assessment](https://github.com/torres-joseph/home-net-security-assessment) | LAN authentication and service exposure review with documented findings and risk classification. | Nmap, LAN Enumeration, Risk Classification |
+| [Windows Log Analysis Lab](https://github.com/torres-joseph/windows-log-analysis-lab) | Structured authentication log review and risk classification using Windows Security logs. | Windows Security Logs `(4624, 4625, 4688)` |
+| [IT Support Playbook](https://github.com/torres-joseph/it-support-playbook) | IT Support Troubleshooting Playbook | Windows Troubleshooting, DNS, Services, Event Viewer |
+| [PowerShell Automation Basics](https://github.com/torres-joseph/powershell-automation-basics) | Practical PowerShell scripts for IT support troubleshooting and log review. | PowerShell |
 
 ---
 
