@@ -1,6 +1,6 @@
 # Joseph Torres 🔐
 
-**IT Support | SecOps | Windows & Networking**
+**IT Support | Security-Focused | Windows & Networking**
 
 I document hands-on IT and security-focused technical work designed to mirror real-world support and operations workflows. My focus is building strong troubleshooting fundamentals across Windows systems, networking, and defensive security practices.
 
@@ -18,8 +18,8 @@ I document hands-on IT and security-focused technical work designed to mirror re
 
 #### Key Tech Stack & Tools
 - **Windows Systems Administration Fundamentals**
-- **Network Segmentation & Firewall Hardening**
 - **Event Log Analysis**
+- **LAN Enumeration & Risk Classification**
 - **Vulnerability Review & Remediation**
 - **PowerShell & Bash Scripting (Basic Automation)**
 - **TCP/IP, DNS, DHCP**
